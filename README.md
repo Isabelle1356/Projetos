@@ -6,4 +6,5 @@ meu nome é Isabelle Reis
 -estou me desenvolvendo na linguagem javascript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-![image](https://github.com/user-attachments/assets/34f8791d-519b-43f0-bb99-239760d6a816)
+![image](https://github.com/user-attachments/assets/0075f79d-21f6-4e35-95dc-7966c741d8b7)
+
